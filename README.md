@@ -5,3 +5,8 @@
 本人用的是Mac Intel电脑，不同设备的首条注释不一样，请自行必应 ( www.bing.com )
 
 请不要将作者的脚本用于非法用途，如果使用，后果自负！！！
+
+
+捐赠 
+能获得您的支持，是作者最大的动力
+BTC：13LZbHCh8GPoBXg3qzLh2JLFb8KLv6V7K1
